@@ -1,0 +1,13 @@
+SettingTab {
+    layout: horizontal;
+    height: 5;
+}
+
+Button {
+    width: 1fr;
+    background: $boost;
+}
+
+.selected {
+    background: $panel;
+}
